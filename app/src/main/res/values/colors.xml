@@ -2,4 +2,32 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Perpustakaan MangakU Theme Colors -->
+    <color name="primary">#2F4F3E</color>
+    <color name="primary_dark">#1E362A</color>
+    <color name="primary_light">#E3ECE7</color>
+    <color name="primary_container">#3B604D</color>
+
+    <color name="accent_gold">#E0A030</color>
+    <color name="accent_gold_light">#FFF4DF</color>
+    <color name="wood_brown">#8B5E3C</color>
+
+    <color name="cream_bg">#FAF6EE</color>
+    <color name="card_bg">#FFFFFFFF</color>
+    <color name="catalog_card_bg">#FCFAF4</color>
+    <color name="catalog_border">#E3DBCF</color>
+
+    <color name="text_primary">#222B25</color>
+    <color name="text_secondary">#67766D</color>
+    <color name="text_hint">#9EA9A1</color>
+
+    <color name="status_available">#2E7D32</color>
+    <color name="status_available_bg">#E8F5E9</color>
+    <color name="status_borrowed">#C62828</color>
+    <color name="status_borrowed_bg">#FFEBEE</color>
+
+    <color name="danger_red">#D32F2F</color>
+    <color name="edit_blue">#1976D2</color>
+    <color name="divider_color">#E5DFD4</color>
 </resources>
